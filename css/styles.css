@@ -32,7 +32,7 @@ a{
     color: #f4f4fd;
 }
 
-.nav-item {
+.nav-link{   
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -67,7 +67,6 @@ a{
     font-size: 56px;
     line-height: 1.08;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
 }
 
@@ -123,7 +122,6 @@ a{
     font-size: 36px;
     line-height: 1.12;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;    
 }
 
@@ -156,7 +154,6 @@ a{
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 .portfolio-list {
