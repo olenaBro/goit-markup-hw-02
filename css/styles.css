@@ -65,7 +65,7 @@ a{
 .section-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.08;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;
 }
@@ -77,9 +77,14 @@ a{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff; 
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     cursor: pointer
 } 
+
+.section-btn:hover,
+.section-btn:focus{
+    background-color: #404bbf;
+}
 
 /*benefits*/
 
@@ -120,13 +125,14 @@ a{
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.12;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;    
 }
 
 .team-item {
-
+    background-color: #ffffff;
 }
 .team-img {
 }
